@@ -1,0 +1,322 @@
+[
+  {
+    "id": "barnards_star",
+    "properName": "Barnard's Star",
+    "fallbackName": "GJ 699",
+    "constellation": "Ophiuchus",
+    "distanceLightYear": 5.96,
+    "spectralType": "M4V",
+    "magnitude": 9.5,
+    "aliases": ["BD+04 3561a"]
+  },
+  {
+    "id": "sirius",
+    "properName": "Sirius",
+    "fallbackName": "Alpha Canis Majoris",
+    "constellation": "Canis Major",
+    "distanceLightYear": 8.6,
+    "spectralType": "A1V",
+    "magnitude": -1.46,
+    "aliases": ["Dog Star"]
+  },
+  {
+    "id": "ran",
+    "properName": "Ran",
+    "fallbackName": "Epsilon Eridani",
+    "constellation": "Eridanus",
+    "distanceLightYear": 10.5,
+    "spectralType": "K2V",
+    "magnitude": 3.73,
+    "aliases": ["Epsilon Eridani"]
+  },
+  {
+    "id": "procyon",
+    "properName": "Procyon",
+    "fallbackName": "Alpha Canis Minoris",
+    "constellation": "Canis Minor",
+    "distanceLightYear": 11.46,
+    "spectralType": "F5IV-V",
+    "magnitude": 0.34,
+    "aliases": []
+  },
+  {
+    "id": "tau_ceti",
+    "properName": "Tau Ceti",
+    "fallbackName": "HD 10700",
+    "constellation": "Cetus",
+    "distanceLightYear": 11.9,
+    "spectralType": "G8.5V",
+    "magnitude": 3.49,
+    "aliases": []
+  },
+  {
+    "id": "sixty_one_cygni_a",
+    "properName": "",
+    "fallbackName": "61 Cygni A",
+    "constellation": "Cygnus",
+    "distanceLightYear": 11.4,
+    "spectralType": "K5V",
+    "magnitude": 5.2,
+    "aliases": ["Bessel's Star"]
+  },
+  {
+    "id": "altair",
+    "properName": "Altair",
+    "fallbackName": "Alpha Aquilae",
+    "constellation": "Aquila",
+    "distanceLightYear": 16.7,
+    "spectralType": "A7V",
+    "magnitude": 0.77,
+    "aliases": []
+  },
+  {
+    "id": "delta_pavonis",
+    "properName": "",
+    "fallbackName": "Delta Pavonis",
+    "constellation": "Pavo",
+    "distanceLightYear": 19.9,
+    "spectralType": "G8IV",
+    "magnitude": 3.56,
+    "aliases": []
+  },
+  {
+    "id": "vega",
+    "properName": "Vega",
+    "fallbackName": "Alpha Lyrae",
+    "constellation": "Lyra",
+    "distanceLightYear": 25.04,
+    "spectralType": "A0V",
+    "magnitude": 0.03,
+    "aliases": []
+  },
+  {
+    "id": "fomalhaut",
+    "properName": "Fomalhaut",
+    "fallbackName": "Alpha Piscis Austrini",
+    "constellation": "Piscis Austrinus",
+    "distanceLightYear": 25.1,
+    "spectralType": "A3V",
+    "magnitude": 1.16,
+    "aliases": []
+  },
+  {
+    "id": "pollux",
+    "properName": "Pollux",
+    "fallbackName": "Beta Geminorum",
+    "constellation": "Gemini",
+    "distanceLightYear": 33.78,
+    "spectralType": "K0III",
+    "magnitude": 1.14,
+    "aliases": []
+  },
+  {
+    "id": "denebola",
+    "properName": "Denebola",
+    "fallbackName": "Beta Leonis",
+    "constellation": "Leo",
+    "distanceLightYear": 35.9,
+    "spectralType": "A3V",
+    "magnitude": 2.14,
+    "aliases": []
+  },
+  {
+    "id": "arcturus",
+    "properName": "Arcturus",
+    "fallbackName": "Alpha Bootis",
+    "constellation": "Bootes",
+    "distanceLightYear": 36.7,
+    "spectralType": "K1.5III",
+    "magnitude": -0.05,
+    "aliases": []
+  },
+  {
+    "id": "capella",
+    "properName": "Capella",
+    "fallbackName": "Alpha Aurigae",
+    "constellation": "Auriga",
+    "distanceLightYear": 42.9,
+    "spectralType": "G8III",
+    "magnitude": 0.08,
+    "aliases": []
+  },
+  {
+    "id": "aldebaran",
+    "properName": "Aldebaran",
+    "fallbackName": "Alpha Tauri",
+    "constellation": "Taurus",
+    "distanceLightYear": 65.3,
+    "spectralType": "K5III",
+    "magnitude": 0.85,
+    "aliases": []
+  },
+  {
+    "id": "hamal",
+    "properName": "Hamal",
+    "fallbackName": "Alpha Arietis",
+    "constellation": "Aries",
+    "distanceLightYear": 66.0,
+    "spectralType": "K2III",
+    "magnitude": 2.0,
+    "aliases": []
+  },
+  {
+    "id": "regulus",
+    "properName": "Regulus",
+    "fallbackName": "Alpha Leonis",
+    "constellation": "Leo",
+    "distanceLightYear": 79.3,
+    "spectralType": "B7V",
+    "magnitude": 1.35,
+    "aliases": []
+  },
+  {
+    "id": "merak",
+    "properName": "Merak",
+    "fallbackName": "Beta Ursae Majoris",
+    "constellation": "Ursa Major",
+    "distanceLightYear": 79.7,
+    "spectralType": "A1V",
+    "magnitude": 2.37,
+    "aliases": []
+  },
+  {
+    "id": "gacrux",
+    "properName": "Gacrux",
+    "fallbackName": "Gamma Crucis",
+    "constellation": "Crux",
+    "distanceLightYear": 88.6,
+    "spectralType": "M3.5III",
+    "magnitude": 1.63,
+    "aliases": []
+  },
+  {
+    "id": "algol",
+    "properName": "Algol",
+    "fallbackName": "Beta Persei",
+    "constellation": "Perseus",
+    "distanceLightYear": 90.0,
+    "spectralType": "B8V",
+    "magnitude": 2.12,
+    "aliases": ["Demon Star"]
+  },
+  {
+    "id": "alpheratz",
+    "properName": "Alpheratz",
+    "fallbackName": "Alpha Andromedae",
+    "constellation": "Andromeda",
+    "distanceLightYear": 97.0,
+    "spectralType": "B8IVp",
+    "magnitude": 2.06,
+    "aliases": []
+  },
+  {
+    "id": "alnair",
+    "properName": "Alnair",
+    "fallbackName": "Alpha Gruis",
+    "constellation": "Grus",
+    "distanceLightYear": 101.0,
+    "spectralType": "B7IV",
+    "magnitude": 1.74,
+    "aliases": []
+  },
+  {
+    "id": "miaplacidus",
+    "properName": "Miaplacidus",
+    "fallbackName": "Beta Carinae",
+    "constellation": "Carina",
+    "distanceLightYear": 111.0,
+    "spectralType": "A2IV",
+    "magnitude": 1.67,
+    "aliases": []
+  },
+  {
+    "id": "alphard",
+    "properName": "Alphard",
+    "fallbackName": "Alpha Hydrae",
+    "constellation": "Hydra",
+    "distanceLightYear": 177.0,
+    "spectralType": "K3II-III",
+    "magnitude": 1.98,
+    "aliases": []
+  },
+  {
+    "id": "scheat",
+    "properName": "Scheat",
+    "fallbackName": "Beta Pegasi",
+    "constellation": "Pegasus",
+    "distanceLightYear": 196.0,
+    "spectralType": "M2.5II-III",
+    "magnitude": 2.42,
+    "aliases": []
+  },
+  {
+    "id": "mirach",
+    "properName": "Mirach",
+    "fallbackName": "Beta Andromedae",
+    "constellation": "Andromeda",
+    "distanceLightYear": 197.0,
+    "spectralType": "M0III",
+    "magnitude": 2.05,
+    "aliases": []
+  },
+  {
+    "id": "nunki",
+    "properName": "Nunki",
+    "fallbackName": "Sigma Sagittarii",
+    "constellation": "Sagittarius",
+    "distanceLightYear": 228.0,
+    "spectralType": "B2.5V",
+    "magnitude": 2.05,
+    "aliases": []
+  },
+  {
+    "id": "spica",
+    "properName": "Spica",
+    "fallbackName": "Alpha Virginis",
+    "constellation": "Virgo",
+    "distanceLightYear": 250.0,
+    "spectralType": "B1V",
+    "magnitude": 0.97,
+    "aliases": []
+  },
+  {
+    "id": "bellatrix",
+    "properName": "Bellatrix",
+    "fallbackName": "Gamma Orionis",
+    "constellation": "Orion",
+    "distanceLightYear": 252.0,
+    "spectralType": "B2III",
+    "magnitude": 1.64,
+    "aliases": []
+  },
+  {
+    "id": "canopus",
+    "properName": "Canopus",
+    "fallbackName": "Alpha Carinae",
+    "constellation": "Carina",
+    "distanceLightYear": 310.0,
+    "spectralType": "A9II",
+    "magnitude": -0.74,
+    "aliases": []
+  },
+  {
+    "id": "polaris",
+    "properName": "Polaris",
+    "fallbackName": "Alpha Ursae Minoris",
+    "constellation": "Ursa Minor",
+    "distanceLightYear": 433.0,
+    "spectralType": "F7Ib",
+    "magnitude": 1.98,
+    "aliases": ["North Star"]
+  },
+  {
+    "id": "betelgeuse",
+    "properName": "Betelgeuse",
+    "fallbackName": "Alpha Orionis",
+    "constellation": "Orion",
+    "distanceLightYear": 548.0,
+    "spectralType": "M1-2Ia-ab",
+    "magnitude": 0.42,
+    "aliases": []
+  }
+]
